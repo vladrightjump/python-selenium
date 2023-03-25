@@ -1,0 +1,20 @@
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+
+# Selenium logs
+logs/
+
+# Browser drivers
+drivers/
+
+# Test output files
+output/
+
+# Test data files
+data/
+
+# Configuration files
+config.ini
